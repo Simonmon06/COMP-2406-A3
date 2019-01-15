@@ -1,11 +1,3 @@
-/*
-Zeye Gu 101036562
-Ziwen Wang 101071063
-
-
-*/
-
-
 const socket = io('http://' + window.document.location.host)
 
 var stone1 = {
