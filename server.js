@@ -1,12 +1,3 @@
-
-/*
-Zeye Gu 101036562
-Ziwen Wang 101071063
-
-
-*/
-
-
 const app = require('http').createServer(handler)
 const io = require('socket.io')(app)
 const fs = require("fs") //need to read static files
