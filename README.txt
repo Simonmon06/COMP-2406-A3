@@ -1,4 +1,3 @@
-This assignemt is written by ZiwenWang, 101071063, ziwenwang3@cmail.carleton.ca, and ZeyeGu, 101036562, zeyegu@cmail.carleton.ca,in 2018/11/08.
  
 The node verson is 8.11.4 and npm verson is 5.6.0.
 
